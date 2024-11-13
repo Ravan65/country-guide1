@@ -65,3 +65,4 @@ searchBtn.addEventListener("click", () => {
       }
     });
 });
+console.log("hi");
